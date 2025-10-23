@@ -193,7 +193,7 @@ If you find this code useful for your research, please cite our paper:
 @{Akbari_2024_SciData,
     author    = {Akbari, M., Pourreza, HR., Khalili Pour, E. et al. },
     title     = {FARFUM-RoP, A dataset for computer-aided detection of Retinopathy of Prematurity},
-    Journal = {Scientific Data, Nature},
+    Journal   = {Scientific Data, Nature},
     month     = {October},
     year      = {2024},
     DOI       = {https://doi.org/10.1038/s41597-024-03897-7}
