@@ -20,10 +20,8 @@
 - [Installation](#installation)
 - [Usage](#usage)
 - [Results](#results)
-- [Related open-source](#related-open-source)
-- [Citing](#citing)
-- [Disclaimer](#disclaimer)
 - [Acknowledgments](#acknowledgments)
+- [Citation](#Citation)
 
 ---
 
